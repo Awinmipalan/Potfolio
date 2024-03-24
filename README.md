@@ -19,21 +19,10 @@ change of data collection system from manual to Google survey form Team work sta
 excel google survey
 
 ## My Projects
-Inter galactic travel
-data source
-keggle
 
-#### Aim
-To analyze This data and create a model that predict the loyalty of the individual involve in this space travel.
+### Inter galactic travel
+This project contain over 500,000 data set which was carefully clean and analyze in python and other platform like gretl and evanmiller this data set which is large proves that the use of iteration to move data to my sql can only be done using small data 
 
-####road map
-mine data extract the data load the data transform the data save the data create model regressional model statistical significance test visualization
 
-#### Tool
-tableau public python Mysql gretl Evan Miller.org power bi
-
-#### process
-first mine for insight in tableau public . python extract the csv file clean and transform the file by creating dummy and changing data time format. the interesting part is saving these file in MySql straight from python using the pymysql syntax. The save file can be exported using Csv format. proceed to gretl for modelling proceed to envanmiller.org for statistical significance test visualizing using power bi the prediction and significant data .
-
-#### limitation.
-could not use iteration for my transfer of data because of data size my kennel was counting in hours
+### absenteeism
+This project contains only 700 data set which was cearfully clean and analyze in python and other platform such as gretl and evanmiller site. This data iteration  was successful.
