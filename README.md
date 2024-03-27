@@ -1,4 +1,5 @@
 # Potfolio
+![Uploading 146103447_1800767570072790_9089118483383842670_n.jpg…]()
 Hi, my name is Awin Danjuma yarks.
 
 I am a graduate of university of Abuja from the department of Mathematics science,A monopoly game lover , sci-fi reader, and student. I love to learn about data, how it become information and how it work in real life. Whether that be studying,mining,good coding practices, analyzing or Data cleaning. Much of my experience revolves around data cleaning minig and analytic analysis, but I also strive to gain a deeper understanding of the world of Data analytic that I can expand my skillset and build new and amazing things and model.
