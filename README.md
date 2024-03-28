@@ -32,4 +32,30 @@ This project contain over 500,000 data set which was carefully clean and analyze
 
 
 ### absenteeism
-This project contains only 700 data set which was cearfully clean and analyze in python and other platform such as gretl and evanmiller site. This data iteration  was successful.
+This project contains only 700 data set which was cearfully clean and analyze in python and other platform such as gretl and evanmiller site. This data iteration  was successful in these data you get to view model from python and gretl and also use CAP excel templates to test the model.
+
+### Tools
+1. python
+2. sql(my sql, postgrel and Microsoft sql)
+3. power bi
+4. tableau
+5. excel
+
+### skill set
+1.data wrangling
+2. data mining 
+3. data Cleaning
+4. model creating 
+5. visualization
+
+### extra skill
+1. canvas graphic design
+2. Ai image creator for logos, brand, data visualization and website creation and apps.
+3. Teach power bi to organization or company staff.
+
+### visit Facebook for my design
+
+https://www.facebook.com/share/99jUjYZn9ezhe6HN/?mibextid=qi2Omg
+
+
+
