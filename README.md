@@ -28,11 +28,24 @@ excel and google survey
 ## My Projects
 
 ### Inter galactic travel
-This project contain over 500,000 data set which was carefully clean and analyze in python and other platform like gretl and evanmiller this data set which is large proves that the use of iteration to move data to my sql can only be done using small data 
-
+This project contain over 500,000 data set in which i carefully cleaned and analyze in python and other platform like gretl and evanmiller this data set which is large proves that the use of iteration to move data to my sql can only be done using small data
+visit my project  repository for more details 
 
 ### absenteeism
 This project contains only 700 data set which was cearfully clean and analyze in python and other platform such as gretl and evanmiller site. This data iteration  was successful in these data you get to view model from python and gretl and also use CAP excel templates to test the model.
+visit project repository for more detail
+
+### Titanic 
+this project contains descriptive analysis of the titanic shipwreck from kaggle site. It also contain kaggle competition result for predicting survrval. I used neural network model to predict survival
+visit titanic repository for all file and note .
+
+### netflix 
+This project comtains descriptive analysis and prediction on the production of movies and tv series.
+visit analysis repository for more details 
+
+### Breast cancer 
+This project comtail detail analysis starting from single column and central tendency to correlation and covariance  check descriptive analysis model testing and training and finally prediction of death and survival status and also use my cap template to check model accuracy .
+all file and python note in analysis visit for more details 
 
 ### Tools
 1. python
@@ -46,7 +59,9 @@ This project contains only 700 data set which was cearfully clean and analyze in
 2. data mining 
 3. data Cleaning
 4. model creating 
-5. visualization
+5. training and testing
+6. preficting
+7. visualization
 
 ### extra skill
 1. canvas graphic design
@@ -57,5 +72,7 @@ This project contains only 700 data set which was cearfully clean and analyze in
 
 https://www.facebook.com/share/99jUjYZn9ezhe6HN/?mibextid=qi2Omg
 
+### call or whatapp
+09029909583
 
 
