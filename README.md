@@ -1,3 +1,4 @@
+
 # Potfolio
 ![Uploading 84a9e083-fcea-4c90-845f-88cecfd3a194.jpg…]()
 
@@ -27,6 +28,17 @@ excel and google survey
 
 ## My Projects
 
+### advance analysis repository 
+contains more  advanced projects on the following:
+1. EDA
+2. geo analysis
+3. models
+4. visualization
+5. feature engineering model
+6. etc.
+
+## python and sql project
+
 ### pro1: Inter galactic travel
 This project contain over 500,000 data set in which i carefully cleaned and analyze in python and other platform like gretl and evanmiller this data set which is large proves that the use of iteration to move data to my sql can only be done using small data
 visit my project  repository for more details 
@@ -34,10 +46,12 @@ visit my project  repository for more details
 ### pro2 : absenteeism
 This project contains only 700 data set which was cearfully clean and analyze in python and other platform such as gretl and evanmiller site. This data iteration  was successful in these data you get to view model from python and gretl and also use CAP excel templates to test the model.
 visit project repository for more detail
+## Titanic project 
 
 ### pro3: Titanic 
 this project contains descriptive analysis of the titanic shipwreck from kaggle site. It also contain kaggle competition result for predicting survrval. I used neural network model to predict survival
 visit titanic repository for all file and note .
+## analysis project
 
 ### pro4 : netflix 
 This project comtains descriptive analysis and prediction on the production of movies and tv series.
